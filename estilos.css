@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+.subtitulos{ 
+    font-size: larger;
+}
+
+.arriba{
+    color: white;
+}
+
+.div{
+    color: yellow;
+   
+}
+
+#TM{ 
+    color: rgb(255, 255, 255);
+}
+
+#deadpool{
+    width: 20em;
+  
+}
+
+
+
+#msjad{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#advertencia{ 
+    text-align: center;
+    color: red;
+    font-size: 4em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
